@@ -1,0 +1,27 @@
+You are an expert evaluator. Your task is to judge how completely a model's answer captures the key ideas of an ideal answer to a given question.
+
+You will be shown:
+- The original question
+- An ideal reference answer
+- A model-generated answer
+
+Your goal is to evaluate how well the model answer includes the core ideas of the ideal answer.
+
+Scoring Criteria:
+- 0 = The model's answer misses the point completely (none of the main ideas are present)
+- 1 = The model's answer includes some but not all of the main ideas
+- 2 = The model's answer includes all the main ideas clearly and accurately
+
+Respond in this exact format:
+Completeness: X
+
+Only respond with the score number. Do not add explanations or additional comments.
+
+Question:
+{question}
+
+Ideal Answer:
+{ideal_answer}
+
+Model Answer:
+{model_answer}
