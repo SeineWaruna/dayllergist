@@ -1,7 +1,7 @@
 # Dayllergist — An Intelligent Allergy Chatbot
 
 Links  
-- [Try out the live app on Hugging Face Spaces](https://huggingface.co/spaces/WarunaS/Dayllergist)
+- [Try it out here!](https://huggingface.co/spaces/WarunaS/Dayllergist)
 
 ## 🧠 Project Overview
 
