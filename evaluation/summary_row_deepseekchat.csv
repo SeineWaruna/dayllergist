@@ -1,0 +1,2 @@
+Model,Completeness (%),Redundancy Precision (%),Hallucination Rate (%),Average WER,Average Semantic Similarity
+DeepseekChat,69.16666666666667,41.66666666666667,15.833333333333332,2.187916873081389,0.7196066552152236

@@ -1,0 +1,2 @@
+Model,Completeness (%),Redundancy Precision (%),Hallucination Rate (%),Average WER,Average Semantic Similarity
+RAG + GPT-4o,79.16666666666666,8.333333333333332,17.5,4.982209359553004,0.7432353049516678

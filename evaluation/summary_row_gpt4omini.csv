@@ -1,0 +1,2 @@
+Model,Completeness (%),Redundancy Precision (%),Hallucination Rate (%),Average WER,Average Semantic Similarity
+GPT-4o-mini,38.333333333333336,45.83333333333333,15.0,2.187916873081389,0.7193260325739781

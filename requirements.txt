@@ -1,0 +1,6 @@
+streamlit
+gradio
+openai==0.28.1
+sentence-transformers
+faiss-cpu
+pandas

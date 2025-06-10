@@ -1,0 +1,2 @@
+Model,Completeness (%),Redundancy Precision (%),Hallucination Rate (%),Average WER,Average Semantic Similarity
+DeepseekReasoner,49.166666666666664,39.166666666666664,23.333333333333332,2.187916873081389,0.7196066552152236

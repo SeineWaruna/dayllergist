@@ -1,0 +1,2 @@
+Model,Completeness (%),Redundancy Precision (%),Hallucination Rate (%),Average WER,Average Semantic Similarity
+Gemini,100.0,0.0,100.0,2.187916873081389,0.7196066552152236
