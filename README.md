@@ -24,3 +24,5 @@ It uses Retrieval-Augmented Generation (RAG) — combining a curated Q&A dataset
 ## 🙌 Acknowledgements
 
 - **AI Builders 2025 TA and mentor** — darling storksss :)
+
+(and my API key that I include doesn't work, i just paste it there:))
